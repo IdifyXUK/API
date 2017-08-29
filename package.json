@@ -1,0 +1,23 @@
+{
+  "name": "idify_api",
+  "description": "API for Idify Products",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdifyXUK/API.git"
+  },
+  "keywords": [
+    "api",
+    "idify"
+  ],
+  "author": "Kevin Kan Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdifyXUK/API/issues"
+  },
+  "homepage": "https://github.com/IdifyXUK/API#readme"
+}
